@@ -1,0 +1,22 @@
+{
+  "name": "EndtoEndReporting",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "Microsoft.Activities": "1.0.1.0",
+    "UiPath.Core.Activities": "17.1.6522.14190",
+    "UiPath.Credentials.Activities": "1.1.6479.13204",
+    "UiPath.Excel.Activities": "2.0.6526.16321",
+    "UiPath.Mail.Activities": "1.1.6562.21018",
+    "UiPath.PDF.Activities": "1.1.6732.21973",
+    "UiPath.Word.Activities": "1.1.6479.13205"
+  },
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "17.1.6522.14204",
+  "projectVersion": "1.0.6812.35836",
+  "packOptions": {},
+  "runtimeOptions": {}
+}

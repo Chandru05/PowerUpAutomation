@@ -1,0 +1,40 @@
+﻿<tr>
+<td>4</td>
+<td>Req4</td>
+<td>High</td>
+<td>Trivial</td>
+<td>CR</td>
+<td>08/21/2018 00:00:00</td>
+<td>08/25/2018 00:00:00</td>
+<td>kchandru05@gmail.com</td>
+<td></td>
+<td>08/20/2018 00:00:00</td>
+<td>08/12/2018 00:00:00</td>
+<td></td>
+<td>chandru.karunanithi@gramenerit.com</td>
+<td>Not Started</td>
+<td>Not Started</td>
+<td>08/22/2018 00:00:00</td>
+<td>08/13/2018 00:00:00</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Req3</td>
+<td>Low</td>
+<td>Minor</td>
+<td>CR</td>
+<td>08/20/2018 00:00:00</td>
+<td>08/25/2018 00:00:00</td>
+<td>chandru.karunanithi@gramenerit.com</td>
+<td>BAReview</td>
+<td>08/20/2018 00:00:00</td>
+<td>08/11/2018 00:00:00</td>
+<td></td>
+<td>kchandru05@gmail.com</td>
+<td>Not Started</td>
+<td>Not Started</td>
+<td>08/21/2018 00:00:00</td>
+<td>08/12/2018 00:00:00</td>
+<td></td>
+</tr>
