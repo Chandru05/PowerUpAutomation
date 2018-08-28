@@ -1,0 +1,62 @@
+﻿<tr>
+<td>Shankar</td>
+<td>Developer</td>
+<td>kchandru05@gmail.com</td>
+<td>Completed</td>
+<td>1. Req1 Design
+2. Req1 Coding
+3. Unit Testingf</td>
+<td></td>
+<td>9</td>
+<td>Ready for Testing</td>
+<td>Testing</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Chandru</td>
+<td>Tester</td>
+<td>chandru.karunanithi@gramenerit.com</td>
+<td>Completed</td>
+<td>Defect Retesting of Project ABC</td>
+<td></td>
+<td>8</td>
+<td>UAT Testing</td>
+<td>UATTesting</td>
+<td></td>
+<td>XYZ Requirement details not shared yet</td>
+<td>Will be on leave next week</td>
+</tr>
+<tr>
+<td>Chandru</td>
+<td>Tester</td>
+<td>chandru.karunanithi@gramenerit.com</td>
+<td>In_progress</td>
+<td>1. abc
+2. xyz
+3. Test Creation for req1 of project ABC
+4. Test Execution for req1 of project ABC</td>
+<td>1. abc
+2. xyz</td>
+<td>8</td>
+<td>Defect Raised</td>
+<td>Developer</td>
+<td></td>
+<td>XYZ Requirement details not shared yet</td>
+<td>Will be on leave next week</td>
+</tr>
+<tr>
+<td>Shankar</td>
+<td>Developer</td>
+<td>kchandru05@gmail.com</td>
+<td>Completed</td>
+<td>Req2 Coding</td>
+<td></td>
+<td>10</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
